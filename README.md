@@ -9,7 +9,7 @@
 ## Social
 [<img src="./icons/social/codepen.png" width="64" height="64">](https://codepen.io/vingt-douze/)   [<img src="./icons/social/linkedin.png" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
 
-#Languages
+# Languages
 [<img src="./icons/languages/javascript.png" width="64" height="64">]()   [<img src="./icons/languages/typescript.svg" width="64" height="64">]()
 
 ## Framework
