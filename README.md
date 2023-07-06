@@ -4,6 +4,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=pierre-lhoste&show_icons=true&bg_color=DEG,690690,2f035a&hide_border=true&text_color=ffffffaa&title_color=fff&icon_color=fff&border_radius=6) 
 
+## Social
+[<img src="./icons/social/codepen.png" width="64" height="64">](https://codepen.io/vingt-douze/) [<img src="./icons/social/linkedin.png" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
+
 <!--
 <picture>
   <source
