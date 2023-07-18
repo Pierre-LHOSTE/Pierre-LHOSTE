@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 248">
+    <defs>
+        <linearGradient id="prefix__a" x1="-528.52" y1="800.83" x2="-528.06" y2="800.45"
+            gradientTransform="matrix(147.73 0 0 -198.71 78157.9 159208.74)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#4285eb" />
+            <stop offset="1" stop-color="#2ec7ff" />
+        </linearGradient>
+        <linearGradient id="prefix__b" x1="-528.32" y1="801.12" x2="-528.47" y2="800.04"
+            gradientTransform="matrix(147.73 0 0 -198.71 78157.9 159208.74)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#29cdff" />
+            <stop offset=".38" stop-color="#148eff" />
+            <stop offset="1" stop-color="#0a60ff" />
+        </linearGradient>
+        <linearGradient id="prefix__c" x1="-528.05" y1="809.24" x2="-528.58" y2="807.94"
+            gradientTransform="matrix(49.2 0 0 -77.44 26189.69 62739.2)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fa816e" />
+            <stop offset=".41" stop-color="#f74a5c" />
+            <stop offset="1" stop-color="#f51d2c" />
+        </linearGradient>
+        <linearGradient id="prefix__d" x1="-528.01" y1="817.87" x2="-528.39" y2="816.36"
+            gradientTransform="matrix(47.2 0 0 -47.16 25055.96 38655.81)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fa8e7d" />
+            <stop offset=".51" stop-color="#f74a5c" />
+            <stop offset="1" stop-color="#f51d2c" />
+        </linearGradient>
+    </defs>
+    <rect width="248" height="248" rx="24.22" ry="24.22" fill="#fff" />
+    <path
+        d="M114.77 27.55l-87.41 87.34c-4.7 4.7-4.7 12.28 0 16.97l87.41 87.34c4.7 4.7 12.29 4.7 16.99 0l36.65-36.62a10.761 10.761 0 000-15.23c-4.21-4.21-11.03-4.21-15.24 0l-27.78 27.76c-1.17 1.17-2.94 1.17-4.11 0l-69.81-69.74c-1.17-1.17-1.17-2.94 0-4.11l69.8-69.74c1.17-1.17 2.94-1.17 4.11 0l27.78 27.76c4.21 4.21 11.03 4.21 15.24 0a10.761 10.761 0 000-15.23l-36.64-36.61c-4.72-4.59-12.31-4.56-16.99.12z"
+        fill="url(#prefix__a)" />
+    <path
+        d="M114.77 27.55l-87.41 87.34c-4.7 4.7-4.7 12.28 0 16.97l87.41 87.34c4.7 4.7 12.29 4.7 16.99 0l36.65-36.62a10.761 10.761 0 000-15.23c-4.21-4.21-11.03-4.21-15.24 0l-27.78 27.76c-1.17 1.17-2.94 1.17-4.11 0l-69.81-69.74c-1.17-1.17-1.17-2.94 0-4.11l69.8-69.74c2.91-2.51 7.66-7.6 14.64-8.79 5.19-.88 10.86 1.06 17.01 5.84-4.11-4.11-11.17-11.15-21.16-21.13-4.72-4.59-12.31-4.56-16.99.12z"
+        fill="url(#prefix__b)" />
+    <path
+        d="M176.87 159.23c4.21 4.21 11.03 4.21 15.24 0l27.03-27.01c4.7-4.7 4.7-12.28 0-16.97L191.87 88.1c-4.22-4.2-11.04-4.19-15.25.01a10.761 10.761 0 000 15.23l18.42 18.4c1.17 1.17 1.17 2.94 0 4.11L176.87 144a10.761 10.761 0 000 15.23z"
+        fill="url(#prefix__c)" />
+    <ellipse cx="123.7" cy="123.81" rx="23.6" ry="23.58" fill="url(#prefix__d)" />
+</svg>
