@@ -8,7 +8,7 @@
 
 ## My networks
 
-[<img title="mail" src="./icons/social/mail.svg" width="64" height="64">](mailto:vingt-douze@protonmail.com)   [<img title="Codepen" src="./icons/social/codepen.svg" width="64" height="64">](https://codepen.io/vingt-douze/)   [<img title="Linkedin" src="./icons/social/linkedin.svg" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
+[<img title="Mail" src="./icons/social/mail.svg" width="64" height="64">](mailto:vingt-douze@protonmail.com)   [<img title="Codepen" src="./icons/social/codepen.svg" width="64" height="64">](https://codepen.io/vingt-douze/)   [<img title="Linkedin" src="./icons/social/linkedin.svg" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" /> -->
 
@@ -16,7 +16,7 @@
 
 `Languages`
 
-[<img src="./icons/languages/javascript.svg" width="64" height="64" title="Javascript">]()   [<img src="./icons/languages/typescript.svg" title="typescript" width="64" height="64">]()
+[<img src="./icons/languages/javascript.svg" width="64" height="64" title="Javascript">]()   [<img src="./icons/languages/typescript.svg" title="Typescript" width="64" height="64">]()
 
 `Frameworks`
 
