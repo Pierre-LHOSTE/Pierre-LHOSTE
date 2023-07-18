@@ -8,7 +8,7 @@
 
 ## My networks
 
-[<img src="./icons/social/mail.svg" width="64" height="64">](mailto:vingt-douze@protonmail.com)   [<img src="./icons/social/codepen.svg" width="64" height="64">](https://codepen.io/vingt-douze/)   [<img src="./icons/social/linkedin.svg" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
+[<img title="mail" src="./icons/social/mail.svg" width="64" height="64">](mailto:vingt-douze@protonmail.com)   [<img title="Codepen" src="./icons/social/codepen.svg" width="64" height="64">](https://codepen.io/vingt-douze/)   [<img title="Linkedin" src="./icons/social/linkedin.svg" width="64" height="64">](https://www.linkedin.com/in/pierre-lhoste/)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" /> -->
 
@@ -18,15 +18,15 @@
 
 [<img src="./icons/languages/javascript.svg" width="64" height="64" title="Javascript">]()   [<img src="./icons/languages/typescript.svg" title="typescript" width="64" height="64">]()
 
-`Framework`
+`Frameworks`
 
 [<img src="./icons/framework/react.svg" width="64" height="64" title="React" height="64" width="64">](https://react.dev/)   [<img src="./icons/framework/electron.svg" title="Electron" width="64" height="64">](https://www.electronjs.org/)   [<img src="./icons/framework/fastify.svg" title="Fastify" width="64" height="64">](https://fastify.dev/)
 
-`Library`
+`Libraries`
 
 [<img src="./icons/library/ant-design.svg" title="Ant-design" width="64" height="64">](https://ant.design/)
 
-`Tool`
+`Tools`
 
 [<img src="./icons/tool/mongodb.svg" title="MongoDB" width="64" height="64">](https://www.mongodb.com/)   [<img src="./icons/tool/vscodium.svg" title="VSCodium" width="64" height="64">](https://vscodium.com/)   [<img src="./icons/tool/photoshop.svg" title="Photoshop" width="64" height="64">](https://www.adobe.com/fr/products/photoshop.html)   [<img src="./icons/tool/illustrator.svg" title="Illustrator" width="64" height="64">](https://www.adobe.com/fr/products/illustrator.html)
 
