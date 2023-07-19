@@ -1,4 +1,3 @@
-
 ![](https://media.discordapp.net/attachments/822787638615474176/1126534899021652038/wallpaper.jpg?width=4000&height=1000)
 
 <img src="https://github-readme-stats.vercel.app/api?username=pierre-lhoste&show_icons=true&bg_color=DEG,2f035a,690690&hide_border=true&text_color=ffffffCC&title_color=fff&icon_color=fff&border_radius=6"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierre-lhoste&layout=compact&bg_color=DEG,690690,2f035a&hide_border=true&title_color=fff&text_color=ffffffCC&border_radius=6" height="195" />
@@ -30,5 +29,8 @@
 
 [<img src="./icons/tool/mongodb.svg" title="MongoDB" width="64" height="64">](https://www.mongodb.com/)   [<img src="./icons/tool/vscodium.svg" title="VSCodium" width="64" height="64">](https://vscodium.com/)   [<img src="./icons/tool/photoshop.svg" title="Photoshop" width="64" height="64">](https://www.adobe.com/fr/products/photoshop.html)   [<img src="./icons/tool/illustrator.svg" title="Illustrator" width="64" height="64">](https://www.adobe.com/fr/products/illustrator.html)
 
+## My projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=212-collections&repo=212-collections&text_color=ffffffCC&icon_color=fff&title_color=fff&border_radius=6&bg_color=DEG,2f035a,690690&hide_border=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/212-Collections/212-Collections))
 ---
 *README under construction*
